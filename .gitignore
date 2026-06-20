@@ -1,0 +1,21 @@
+# datasets
+data/
+
+# outputs
+results/
+
+# python cache
+__pycache__/
+*.pyc
+
+# jupyter
+.ipynb_checkpoints/
+
+# optional: ignore temporary notebooks
+Untitled*.ipynb
+
+# model files
+*.npy
+*.hdf5
+*.h5
+*.keras
